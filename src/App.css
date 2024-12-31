@@ -79,3 +79,7 @@ img {
   border: 1px solid #ccc; /* Optional: adds a border around the text container */
   margin-bottom: 20px; /* Spacing below the text container */
 }
+.content-section {
+  margin-top: 20px;
+  text-align: center;
+}
