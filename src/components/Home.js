@@ -8,7 +8,7 @@ function Home() {
     <div className="home-container">
       {/* Header Section */}
       <header className="hero">
-        <h1>Welcome to Bheem Gym Corp</h1>
+        <h1>Welcome to Fitness AI Companion Application(F.A.C.A)</h1>
         <p>Transform Your Life Today!</p>
       </header>
 
@@ -28,7 +28,7 @@ function Home() {
           <p>
             Want to change the way you live? Want to let go of procrastination?
             Want to live life the way you want? You are at the right place!
-            Welcome to Bheem Gym Corp - a one-stop shop for all your fitness
+            Welcome to F.A.C.A - a one-stop shop for all your fitness
             needs powered by mystique, AI, and proven methods.
           </p>
         </div>
@@ -66,7 +66,7 @@ function Home() {
       {/* Footer Section */}
       <footer className="footer">
         <div className="footer-content">
-          <p>© 2024 Bheem Gym Corp. All rights reserved.</p>
+          <p>© 2024 F.A.C.A All rights reserved.</p>
           <p>
             <a href="/privacy-policy" className="footer-link">
               Privacy Policy
